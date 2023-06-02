@@ -16,7 +16,7 @@ Crear una carpeta, ingresar a git bash y ejecutar
 git clone https://github.com/Piperowb/Prueba_Suntic.git
 ```
 
-SEGUNDO PASO: Crear una base de datos con el nombre prueba_konecta
+SEGUNDO PASO: Crear una base de datos con el nombre prueba_suntic
 Luego restaurar la base de datos "prueba_suntic.sql" que se encuentra dentro de la carpeta "db" del proyecto
 
 ```bash
