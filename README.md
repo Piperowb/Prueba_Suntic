@@ -22,4 +22,4 @@ Luego restaurar la base de datos "prueba_suntic.sql" que se encuentra dentro de 
 ```bash
 git clone https://github.com/Piperowb/Prueba_Suntic.git
 ```
-# Prueba_Suntic
+
